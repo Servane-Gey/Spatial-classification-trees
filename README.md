@@ -1,1 +1,2 @@
-# Spatial-classification-trees
+# Spatial classification trees
+
