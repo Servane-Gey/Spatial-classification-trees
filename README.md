@@ -8,4 +8,4 @@ You can find in this repository the following files:
 * spatcart_1.0.0.tar.gz -- spatcart package source file
 * spatcart_1.0.0.tgz -- spatcart package binary file
 * How-to-use-package-spatcart.pdf -- spatcart package documentation
-* Simulation.study.R -- R code to reproduce the simulation experiments of the article.
+* Simulation.study.R -- R code to reproduce the simulation experiments of the article. Requires packages *spatcart*, *tree*, *spatstat* and *ggplot2*
