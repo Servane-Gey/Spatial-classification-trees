@@ -5,4 +5,4 @@ This repository contains the main features and code sources from experiments dev
 * spatcart_1.0.0.tar.gz -- spatcart package source file
 * spatcart_1.0.0.tgz -- spatcart package binary file
 * How-to-use-this-package.pdf -- spatcart package documentation
-* Simulation.study.R -- R code source for the simulation experiments that can be found in the article.
+* Simulation.study.R -- R code source for the simulation experiments of the article.
