@@ -2,6 +2,9 @@
 
 This repository contains the main features and code sources from experiments developed with the package **spatcart** in the article *Spatial Classification Trees*, by A. Bar-Hen, S. Gey and J.-M. Poggi, HAL 01837065 (2018).  
 To install the **spatcart** package, we suggest to use R package **devtools** and the *devtools::install_github("Servane-Gey/spatcart")* command.
+'''{r, eval = FALSE}
+devtools::install_github("Servane-Gey/spatcart")
+'''
 
 You can find in this repository the following files:
 * spatcart_1.0.0.tar.gz -- spatcart package source file
