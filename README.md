@@ -1,4 +1,4 @@
-# Spatial classification trees
+# Spatial CART classification trees
 
 This repository contains the main features and code sources from experiments developed with the package **spatcart** in the article *Spatial CART Classification Trees*, by A. Bar-Hen, S. Gey and J.-M. Poggi, HAL 01837065 (2018).  
 To install the **spatcart** package, we suggest to use R package **devtools** and the command  
